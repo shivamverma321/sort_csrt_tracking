@@ -19,4 +19,7 @@
 * The tracking will be done for MAX_AGE frames before dying off automatically unless if a new detection is fed before the tracker dies
 
 ## Results
+Before using Kalman Filter
 ![caption](results/kf_sort.gif)
+After using CSRT
+![caption](results/csrt_sort.gif)
