@@ -23,3 +23,9 @@ Before using Kalman Filter
 ![caption](results/kf_sort.gif)
 After using CSRT
 ![caption](results/csrt_sort.gif)
+
+## Usage
+Run the following command
+'''
+!python classy_track2.py --source path/to/images/
+'''
