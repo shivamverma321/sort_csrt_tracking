@@ -26,6 +26,6 @@ After using CSRT
 
 ## Usage
 Run the following command
-'''
-!python classy_track2.py --source path/to/images/
-'''
+```
+!python classy_track2.py --source path/to/images/ --weights path/to/weights/
+```
